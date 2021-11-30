@@ -34,7 +34,7 @@ class Instax7Mint extends StatelessWidget { //membuat nama class, dan yang nanti
                 BoxDecoration(shape: BoxShape.circle, color: Colors.black),
             child: IconButton(
               icon: const Icon(
-                Icons.shopping_bag_outlined,
+                Icons.more_vert,
                 color: Colors.white,
               ),
               onPressed: () {},
